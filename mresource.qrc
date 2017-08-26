@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Graphics">
+        <file>graphics/check.png</file>
+        <file>graphics/five.png</file>
+        <file>graphics/four.png</file>
+        <file>graphics/one.png</file>
+        <file>graphics/purple-quotes.png</file>
+        <file>graphics/seven.png</file>
+        <file>graphics/six.png</file>
+        <file>graphics/tes1.png</file>
+        <file>graphics/three.png</file>
+        <file>graphics/toolbarIcon@8.png</file>
+        <file>graphics/two.png</file>
+    </qresource>
+</RCC>
